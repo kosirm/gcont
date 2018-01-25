@@ -14,10 +14,10 @@
     "gatsby-source-contentful": "latest",
     "gatsby-transformer-remark": "latest",
     "lodash": "^4.16.4",
-    "react-typography": "^0.15.0",
+    "react-typography": "^0.16.13",
     "slash": "^1.0.0",
-    "typography": "^0.15.8",
-    "typography-breakpoint-constants": "^0.14.0"
+    "typography": "^0.16.6",
+    "typography-breakpoint-constants": "^0.15.10"
   },
   "keywords": [
     "gatsby"
