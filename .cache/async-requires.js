@@ -2,6 +2,7 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
+  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/home/ubuntu/workspace/using-contentful/.cache/dev-404-page.js"),
   "component---src-templates-product-js": require("gatsby-module-loader?name=component---src-templates-product-js!/home/ubuntu/workspace/using-contentful/src/templates/product.js"),
   "component---src-templates-category-js": require("gatsby-module-loader?name=component---src-templates-category-js!/home/ubuntu/workspace/using-contentful/src/templates/category.js"),
   "component---src-pages-image-api-js": require("gatsby-module-loader?name=component---src-pages-image-api-js!/home/ubuntu/workspace/using-contentful/src/pages/image-api.js"),
@@ -9,6 +10,8 @@ exports.components = {
 }
 
 exports.json = {
+  "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
+  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/home/ubuntu/workspace/using-contentful/.cache/json/dev-404-page.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
   "products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s-de.json": require("gatsby-module-loader?name=path---products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s-de!/home/ubuntu/workspace/using-contentful/.cache/json/products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s-de.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),

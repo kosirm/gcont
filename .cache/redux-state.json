@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/home/ubuntu/workspace/using-contentful/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1516887638690,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/home/ubuntu/workspace/using-contentful/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "ebb4ec0bdba744bf718a0147765e4a0d",
         "owner": "internal-data-bridge"
       }
     },
@@ -602,14 +612,16 @@
       "siteMetadata": {
         "title": "Gatsby with Contentful"
       },
+      "port": "",
+      "host": "0.0.0.0",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-25T12:11:18.425Z",
+      "buildTime": "2018-01-25T13:40:24.241Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "fa51622fff35d538dc5cb7ad1ccf636b",
+        "contentDigest": "c3628590ee73f1516317ef32b437f387",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -3148,7 +3160,7 @@
       "context": {
         "id": "c5KsDBWseXY6QegucYAoacS___de"
       },
-      "updatedAt": 1516882284835,
+      "updatedAt": 1516887638751,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3157,7 +3169,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1061b4f6f9a12684ec2089b976eedc7a",
+        "contentDigest": "792ae5bfc58518ca36516f2540b2235d",
         "owner": "internal-data-bridge"
       }
     },
@@ -3171,7 +3183,7 @@
       "context": {
         "id": "c3DVqIYj4dOwwcKu6sgqOgg___de"
       },
-      "updatedAt": 1516882284838,
+      "updatedAt": 1516887638752,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3180,7 +3192,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "523b0da13e9c609a6bc8df9b24874f3b",
+        "contentDigest": "f3e9f6daa8b0c86a4816e0cf2d286952",
         "owner": "internal-data-bridge"
       }
     },
@@ -3194,7 +3206,7 @@
       "context": {
         "id": "c6dbjWqNd9SqccegcqYq224___de"
       },
-      "updatedAt": 1516882284840,
+      "updatedAt": 1516887638753,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3203,7 +3215,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "38ff90986bd6499ff6e0183d05bc1d1b",
+        "contentDigest": "732cfa7a2b64e1937ad5e7604ed8e59e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3217,7 +3229,7 @@
       "context": {
         "id": "c4BqrajvA8E6qwgkieoqmqO___de"
       },
-      "updatedAt": 1516882284841,
+      "updatedAt": 1516887638754,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3226,7 +3238,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78e788de160d72c8874e590f6ebab478",
+        "contentDigest": "2d14d3c756e51f31ec7c3723edbc3144",
         "owner": "internal-data-bridge"
       }
     },
@@ -3240,7 +3252,7 @@
       "context": {
         "id": "c5KsDBWseXY6QegucYAoacS"
       },
-      "updatedAt": 1516882284843,
+      "updatedAt": 1516887638755,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3249,7 +3261,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "a18fbe25ab29a20753c801e5f5cf520e",
+        "contentDigest": "3a28f5df7ab293b5b5664d8f3645105a",
         "owner": "internal-data-bridge"
       }
     },
@@ -3263,7 +3275,7 @@
       "context": {
         "id": "c3DVqIYj4dOwwcKu6sgqOgg"
       },
-      "updatedAt": 1516882284844,
+      "updatedAt": 1516887638757,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3272,7 +3284,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b86b1c3bb20f88e377ad88943c0bd272",
+        "contentDigest": "9741ea2ee9c7a5bee5a26d3c063c69b0",
         "owner": "internal-data-bridge"
       }
     },
@@ -3286,7 +3298,7 @@
       "context": {
         "id": "c6dbjWqNd9SqccegcqYq224"
       },
-      "updatedAt": 1516882284846,
+      "updatedAt": 1516887638758,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3295,7 +3307,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6782d318783448f759a757629d36f80f",
+        "contentDigest": "7a1d93fa87c9f6ffeccc9ed761e7d284",
         "owner": "internal-data-bridge"
       }
     },
@@ -3309,7 +3321,7 @@
       "context": {
         "id": "c4BqrajvA8E6qwgkieoqmqO"
       },
-      "updatedAt": 1516882284848,
+      "updatedAt": 1516887638760,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3318,7 +3330,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "47722d854a3b7435e48aa76143c838bd",
+        "contentDigest": "3ade34e7d06a4d983de01490b44266a4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3332,7 +3344,7 @@
       "context": {
         "id": "c7LAnCobuuWYSqks6wAwY2a___de"
       },
-      "updatedAt": 1516882284880,
+      "updatedAt": 1516887638790,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3341,7 +3353,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "abeb01aa0589c9bde682f444a25e423e",
+        "contentDigest": "677e59dd114484825bde3f2d925f62fd",
         "owner": "internal-data-bridge"
       }
     },
@@ -3355,7 +3367,7 @@
       "context": {
         "id": "c24DPGBDeGEaYy8ms4Y8QMQ___de"
       },
-      "updatedAt": 1516882284882,
+      "updatedAt": 1516887638791,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3364,7 +3376,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5a05ff85d264ef4efbb7b9470c7c18d7",
+        "contentDigest": "587b795f5f1b54d40ea67d22babfaae0",
         "owner": "internal-data-bridge"
       }
     },
@@ -3378,7 +3390,7 @@
       "context": {
         "id": "c7LAnCobuuWYSqks6wAwY2a"
       },
-      "updatedAt": 1516882284884,
+      "updatedAt": 1516887638792,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3387,7 +3399,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5bd89968d3bd6689b0dfc4b69431c2ab",
+        "contentDigest": "631f77dbc27d0b83dff76c964361b40b",
         "owner": "internal-data-bridge"
       }
     },
@@ -3401,7 +3413,7 @@
       "context": {
         "id": "c24DPGBDeGEaYy8ms4Y8QMQ"
       },
-      "updatedAt": 1516882284885,
+      "updatedAt": 1516887638793,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3410,7 +3422,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cb6525ce32101544c9041cc1d37d643e",
+        "contentDigest": "efb8fe3aebc92c96dbf3ae93e82e8ee4",
         "owner": "internal-data-bridge"
       }
     },
@@ -3422,7 +3434,7 @@
       "component": "/home/ubuntu/workspace/using-contentful/src/pages/image-api.js",
       "componentChunkName": "component---src-pages-image-api-js",
       "context": {},
-      "updatedAt": 1516882284917,
+      "updatedAt": 1516887638827,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/pages/image-api.js",
@@ -3431,7 +3443,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ed86ee36d36611e8e9fe0146dd401a36",
+        "contentDigest": "9d7d2555e63a8c14522aba839cee27c2",
         "owner": "internal-data-bridge"
       }
     },
@@ -3443,7 +3455,7 @@
       "component": "/home/ubuntu/workspace/using-contentful/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1516882284921,
+      "updatedAt": 1516887638830,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/pages/index.js",
@@ -3452,7 +3464,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab9835e9380a40dccbf1c2453c9b666b",
+        "contentDigest": "8e3ae2bd71a2482b92790c57aec3b7a8",
         "owner": "internal-data-bridge"
       }
     }
@@ -3718,6 +3730,9 @@
       ],
       "ContentfulProduct": [
         "/"
+      ],
+      "SitePage": [
+        "/dev-404-page/"
       ]
     }
   }

@@ -7,6 +7,7 @@ exports.layouts = {
 }
 
 exports.components = {
+  "component---cache-dev-404-page-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/.cache/dev-404-page.js")),
   "component---src-templates-product-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/templates/product.js")),
   "component---src-templates-category-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/templates/category.js")),
   "component---src-pages-image-api-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/pages/image-api.js")),
@@ -14,6 +15,8 @@ exports.components = {
 }
 
 exports.json = {
+  "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
+  "dev-404-page.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/dev-404-page.json"),
   "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
   "products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s-de.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s-de.json"),
   "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
