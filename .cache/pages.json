@@ -1,0 +1,100 @@
+[
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s-de.json",
+        "path": "/products/c5KsDBWseXY6QegucYAoacS___de/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-3-d-vq-i-yj-4-d-owwc-ku-6-sgq-ogg-de.json",
+        "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-6-dbj-wq-nd-9-sqccegcq-yq-224-de.json",
+        "path": "/products/c6dbjWqNd9SqccegcqYq224___de/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-4-bqrajv-a-8-e-6-qwgkieoqmq-o-de.json",
+        "path": "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-5-ks-db-wse-xy-6-qeguc-y-aoac-s.json",
+        "path": "/products/c5KsDBWseXY6QegucYAoacS/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-3-d-vq-i-yj-4-d-owwc-ku-6-sgq-ogg.json",
+        "path": "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-6-dbj-wq-nd-9-sqccegcq-yq-224.json",
+        "path": "/products/c6dbjWqNd9SqccegcqYq224/"
+    },
+    {
+        "componentChunkName": "component---src-templates-product-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "products-c-4-bqrajv-a-8-e-6-qwgkieoqmq-o.json",
+        "path": "/products/c4BqrajvA8E6qwgkieoqmqO/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "categories-c-7-l-an-cobuu-wy-sqks-6-w-aw-y-2-a-de.json",
+        "path": "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq-de.json",
+        "path": "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "categories-c-7-l-an-cobuu-wy-sqks-6-w-aw-y-2-a.json",
+        "path": "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json",
+        "path": "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
+    },
+    {
+        "componentChunkName": "component---src-pages-image-api-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "image-api.json",
+        "path": "/image-api/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    }
+]
