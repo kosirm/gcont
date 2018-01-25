@@ -22,8 +22,8 @@ class DefaultLayout extends React.Component {
         }}
       >
         <Link style={{ textDecoration: `none` }} to="/">
-          <h3 style={{ color: `tomato`, marginBottom: rhythm(1.5) }}>
-            Example of using Contentful as a data source for a Gatsby site
+          <h3 style={{ color: `green`, marginBottom: rhythm(1.5) }}>
+            Contentful as a data source for a Gatsby site
           </h3>
         </Link>
         {this.props.children()}
