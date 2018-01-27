@@ -8,7 +8,7 @@
       "component": "/home/ubuntu/workspace/using-contentful/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1516887638690,
+      "updatedAt": 1517066007372,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "/home/ubuntu/workspace/using-contentful/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ebb4ec0bdba744bf718a0147765e4a0d",
+        "contentDigest": "beab3c3c5cf832c49f42d1c5e284bbb7",
         "owner": "internal-data-bridge"
       }
     },
@@ -320,6 +320,90 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Plugin gatsby-plugin-manifest": {
+      "resolve": "/home/ubuntu/workspace/using-contentful/node_modules/gatsby-plugin-manifest",
+      "id": "Plugin gatsby-plugin-manifest",
+      "name": "gatsby-plugin-manifest",
+      "version": "1.0.13",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "GatsbyJS",
+        "short_name": "GatsbyJS",
+        "start_url": "/",
+        "background_color": "#f7f0eb",
+        "theme_color": "#a2466c",
+        "display": "minimal-ui",
+        "icons": [
+          {
+            "src": "/favicons/android-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/favicons/android-icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+          }
+        ]
+      },
+      "nodeAPIs": [
+        "onPostBuild"
+      ],
+      "pluginFilepath": "/home/ubuntu/workspace/using-contentful/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.json to make sites progressive web apps",
+        "version": "1.0.13",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "manifest.json",
+          "pwa",
+          "progressive-web-app"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "4964d2a6c759022a196222782c50de15",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "Plugin gatsby-transformer-remark": {
       "resolve": "/home/ubuntu/workspace/using-contentful/node_modules/gatsby-transformer-remark",
       "id": "Plugin gatsby-transformer-remark",
@@ -522,7 +606,7 @@
       "resolve": "/home/ubuntu/workspace/using-contentful",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "def5fb799c6d9c9754e44870288c6644",
+      "version": "a4a72d35cd50bdd65a281ab706b71635",
       "pluginOptions": {
         "plugins": []
       },
@@ -557,6 +641,10 @@
           {
             "name": "gatsby-plugin-google-analytics",
             "version": "latest"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^1.0.13"
           },
           {
             "name": "gatsby-plugin-netlify",
@@ -603,7 +691,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d1dab04de3a8a3f00792c590fc665927",
+        "contentDigest": "569b58d5d2ff21b2659fcf7929a70533",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -612,16 +700,16 @@
       "siteMetadata": {
         "title": "Gatsby with Contentful"
       },
-      "port": "",
+      "port": "8080",
       "host": "0.0.0.0",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-01-25T13:40:24.241Z",
+      "buildTime": "2018-01-27T15:11:34.944Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "c3628590ee73f1516317ef32b437f387",
+        "contentDigest": "4d5418b5dfb832091d4e2910778d2596",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -3160,7 +3248,7 @@
       "context": {
         "id": "c5KsDBWseXY6QegucYAoacS___de"
       },
-      "updatedAt": 1516887638751,
+      "updatedAt": 1517066007380,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3169,7 +3257,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "792ae5bfc58518ca36516f2540b2235d",
+        "contentDigest": "1f3c5b431cb6d4a1707c147de3034a63",
         "owner": "internal-data-bridge"
       }
     },
@@ -3183,7 +3271,7 @@
       "context": {
         "id": "c3DVqIYj4dOwwcKu6sgqOgg___de"
       },
-      "updatedAt": 1516887638752,
+      "updatedAt": 1517066007382,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3192,7 +3280,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f3e9f6daa8b0c86a4816e0cf2d286952",
+        "contentDigest": "7a594540692cc904c92a9c65168f03a6",
         "owner": "internal-data-bridge"
       }
     },
@@ -3206,7 +3294,7 @@
       "context": {
         "id": "c6dbjWqNd9SqccegcqYq224___de"
       },
-      "updatedAt": 1516887638753,
+      "updatedAt": 1517066007382,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3215,7 +3303,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "732cfa7a2b64e1937ad5e7604ed8e59e",
+        "contentDigest": "ce3888e3ffb2c232903e4eed4278f727",
         "owner": "internal-data-bridge"
       }
     },
@@ -3229,7 +3317,7 @@
       "context": {
         "id": "c4BqrajvA8E6qwgkieoqmqO___de"
       },
-      "updatedAt": 1516887638754,
+      "updatedAt": 1517066007383,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3238,7 +3326,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2d14d3c756e51f31ec7c3723edbc3144",
+        "contentDigest": "ad2e56b8d4f2905e04dac274d79ed42e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3252,7 +3340,7 @@
       "context": {
         "id": "c5KsDBWseXY6QegucYAoacS"
       },
-      "updatedAt": 1516887638755,
+      "updatedAt": 1517066007384,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3261,7 +3349,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3a28f5df7ab293b5b5664d8f3645105a",
+        "contentDigest": "c03cc738c7bd1b7c121187a61c9cbc13",
         "owner": "internal-data-bridge"
       }
     },
@@ -3275,7 +3363,7 @@
       "context": {
         "id": "c3DVqIYj4dOwwcKu6sgqOgg"
       },
-      "updatedAt": 1516887638757,
+      "updatedAt": 1517066007385,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3284,7 +3372,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9741ea2ee9c7a5bee5a26d3c063c69b0",
+        "contentDigest": "dc4445ca2f79f9ca5606f04bf0716422",
         "owner": "internal-data-bridge"
       }
     },
@@ -3298,7 +3386,7 @@
       "context": {
         "id": "c6dbjWqNd9SqccegcqYq224"
       },
-      "updatedAt": 1516887638758,
+      "updatedAt": 1517066007386,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3307,7 +3395,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7a1d93fa87c9f6ffeccc9ed761e7d284",
+        "contentDigest": "0e90193dffa5e36a907805ac81013051",
         "owner": "internal-data-bridge"
       }
     },
@@ -3321,7 +3409,7 @@
       "context": {
         "id": "c4BqrajvA8E6qwgkieoqmqO"
       },
-      "updatedAt": 1516887638760,
+      "updatedAt": 1517066007387,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/product.js",
@@ -3330,7 +3418,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3ade34e7d06a4d983de01490b44266a4",
+        "contentDigest": "320ea8ba892765f40c713f6150517140",
         "owner": "internal-data-bridge"
       }
     },
@@ -3344,7 +3432,7 @@
       "context": {
         "id": "c7LAnCobuuWYSqks6wAwY2a___de"
       },
-      "updatedAt": 1516887638790,
+      "updatedAt": 1517066007408,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3353,7 +3441,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "677e59dd114484825bde3f2d925f62fd",
+        "contentDigest": "a6b8f74037e5b8526b37f1ecf5eda1d1",
         "owner": "internal-data-bridge"
       }
     },
@@ -3367,7 +3455,7 @@
       "context": {
         "id": "c24DPGBDeGEaYy8ms4Y8QMQ___de"
       },
-      "updatedAt": 1516887638791,
+      "updatedAt": 1517066007409,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3376,7 +3464,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "587b795f5f1b54d40ea67d22babfaae0",
+        "contentDigest": "3eb469986ed68549182c3d504afc79f8",
         "owner": "internal-data-bridge"
       }
     },
@@ -3390,7 +3478,7 @@
       "context": {
         "id": "c7LAnCobuuWYSqks6wAwY2a"
       },
-      "updatedAt": 1516887638792,
+      "updatedAt": 1517066007410,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3399,7 +3487,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "631f77dbc27d0b83dff76c964361b40b",
+        "contentDigest": "44e2c4893909d054ced611dd0755144e",
         "owner": "internal-data-bridge"
       }
     },
@@ -3413,7 +3501,7 @@
       "context": {
         "id": "c24DPGBDeGEaYy8ms4Y8QMQ"
       },
-      "updatedAt": 1516887638793,
+      "updatedAt": 1517066007411,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/templates/category.js",
@@ -3422,7 +3510,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "efb8fe3aebc92c96dbf3ae93e82e8ee4",
+        "contentDigest": "c1b96dc856c9fa753ffd5c6ee30be75c",
         "owner": "internal-data-bridge"
       }
     },
@@ -3434,7 +3522,7 @@
       "component": "/home/ubuntu/workspace/using-contentful/src/pages/image-api.js",
       "componentChunkName": "component---src-pages-image-api-js",
       "context": {},
-      "updatedAt": 1516887638827,
+      "updatedAt": 1517065899136,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/pages/image-api.js",
@@ -3443,7 +3531,49 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9d7d2555e63a8c14522aba839cee27c2",
+        "contentDigest": "1f2bd0c24c8325d46b8658698fd8895a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /de/": {
+      "layout": "index",
+      "jsonName": "de.json",
+      "internalComponentName": "ComponentDe",
+      "path": "/de/",
+      "component": "/home/ubuntu/workspace/using-contentful/src/pages/de/index.js",
+      "componentChunkName": "component---src-pages-de-index-js",
+      "context": {},
+      "updatedAt": 1517065899150,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/ubuntu/workspace/using-contentful/src/pages/de/index.js",
+      "id": "SitePage /de/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f59744f03efe0939592c18f59eab7435",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /en/": {
+      "layout": "index",
+      "jsonName": "en.json",
+      "internalComponentName": "ComponentEn",
+      "path": "/en/",
+      "component": "/home/ubuntu/workspace/using-contentful/src/pages/en/index.js",
+      "componentChunkName": "component---src-pages-en-index-js",
+      "context": {},
+      "updatedAt": 1517065899153,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/home/ubuntu/workspace/using-contentful/src/pages/en/index.js",
+      "id": "SitePage /en/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "21ef25673e90126c8876fc3fa4edb182",
         "owner": "internal-data-bridge"
       }
     },
@@ -3455,7 +3585,7 @@
       "component": "/home/ubuntu/workspace/using-contentful/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1516887638830,
+      "updatedAt": 1517066097029,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "/home/ubuntu/workspace/using-contentful/src/pages/index.js",
@@ -3464,7 +3594,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "8e3ae2bd71a2482b92790c57aec3b7a8",
+        "contentDigest": "35a1b8a92c28d84020687146cafdbe07",
         "owner": "internal-data-bridge"
       }
     }
@@ -3475,76 +3605,149 @@
         "rocybtov1ozk": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdyYzBsKbLwPDrSpwC0bCnlHDgcOhw7wMwpIRw4XCksOzGMKhJkzCrMOuCh7Cpgh2wq0Bw5sjw7jDi0DDrMOKwqoewo3DssOhw5YXfcOsw7JsIcKHwokYwpHDmRZ_KsO8w4_Dlg"
       }
     },
-    "PLUGINS_HASH": "fd4292fe1b16a42498f32d5c34545677"
+    "PLUGINS_HASH": "8f3218f6ec22f8b41cc748661b30dc57"
   },
   "componentDataDependencies": {
     "nodes": {
-      "c6dbjWqNd9SqccegcqYq224___de": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
-      ],
-      "c6dbjWqNd9SqccegcqYq224___deproductNameTextNode": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
-        "/"
-      ],
-      "c6dbjWqNd9SqccegcqYq224___deproductDescriptionTextNode": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/"
-      ],
-      "c6dbjWqNd9SqccegcqYq224___deproductDescriptionTextNode >>> MarkdownRemark": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/"
-      ],
-      "c10TkaLheGeQG6qQGqWYqUI___de": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
-        "/"
-      ],
-      "c651CQ8rLoIYCeY6G0QG22q___de": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
-      ],
-      "c651CQ8rLoIYCeY6G0QG22q___decompanyNameTextNode": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
-      ],
       "c7LAnCobuuWYSqks6wAwY2a___de": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
         "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
-        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
+        "/products/c6dbjWqNd9SqccegcqYq224___de/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
       ],
       "c7LAnCobuuWYSqks6wAwY2a___detitleTextNode": [
-        "/products/c6dbjWqNd9SqccegcqYq224___de/",
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
         "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
-        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
+        "/products/c6dbjWqNd9SqccegcqYq224___de/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
+      ],
+      "c6m5AJ9vMPKc8OUoQeoCS4o___de": [
         "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
       ],
       "c3DVqIYj4dOwwcKu6sgqOgg___de": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224___de": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
+        "/products/c6dbjWqNd9SqccegcqYq224___de/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqO___de": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
       ],
       "c3DVqIYj4dOwwcKu6sgqOgg___deproductNameTextNode": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
         "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
-        "/"
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
+        "/de/"
       ],
-      "c3DVqIYj4dOwwcKu6sgqOgg___deproductDescriptionTextNode": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
+      "c6dbjWqNd9SqccegcqYq224___deproductNameTextNode": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
+        "/products/c6dbjWqNd9SqccegcqYq224___de/",
+        "/de/"
       ],
-      "c3DVqIYj4dOwwcKu6sgqOgg___deproductDescriptionTextNode >>> MarkdownRemark": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
+      "c4BqrajvA8E6qwgkieoqmqO___deproductNameTextNode": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
+        "/de/"
+      ],
+      "c5KsDBWseXY6QegucYAoacS___deproductNameTextNode": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/",
+        "/products/c5KsDBWseXY6QegucYAoacS___de/",
+        "/de/"
+      ],
+      "wtrHxeu3zEoEce2MokCSi___de": [
+        "/products/c5KsDBWseXY6QegucYAoacS___de/",
+        "/de/"
       ],
       "Xc0ny7GWsMEMCeASWO2um___de": [
         "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
-        "/"
+        "/de/"
       ],
-      "c5KsDBWseXY6QegucYAoacS___de": [
-        "/products/c5KsDBWseXY6QegucYAoacS___de/",
+      "c10TkaLheGeQG6qQGqWYqUI___de": [
+        "/products/c6dbjWqNd9SqccegcqYq224___de/",
+        "/de/"
+      ],
+      "KTRF62Q4gg60q6WCsWKw8___de": [
+        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
+        "/de/"
+      ],
+      "c24DPGBDeGEaYy8ms4Y8QMQ___de": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/",
+        "/products/c5KsDBWseXY6QegucYAoacS___de/"
+      ],
+      "c24DPGBDeGEaYy8ms4Y8QMQ___detitleTextNode": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/",
+        "/products/c5KsDBWseXY6QegucYAoacS___de/"
+      ],
+      "c6t4HKjytPi0mYgs240wkG___de": [
         "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/"
       ],
-      "c5KsDBWseXY6QegucYAoacS___deproductNameTextNode": [
-        "/products/c5KsDBWseXY6QegucYAoacS___de/",
+      "c5KsDBWseXY6QegucYAoacS___de": [
         "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/",
-        "/"
+        "/products/c5KsDBWseXY6QegucYAoacS___de/"
+      ],
+      "c7LAnCobuuWYSqks6wAwY2a": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "c7LAnCobuuWYSqks6wAwY2atitleTextNode": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "c6m5AJ9vMPKc8OUoQeoCS4o": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
+      ],
+      "c3DVqIYj4dOwwcKu6sgqOgg": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c6dbjWqNd9SqccegcqYq224/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqO": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO/"
+      ],
+      "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
+        "/en/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224productNameTextNode": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c6dbjWqNd9SqccegcqYq224/",
+        "/en/"
+      ],
+      "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode": [
+        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
+        "/products/c4BqrajvA8E6qwgkieoqmqO/",
+        "/en/"
+      ],
+      "c24DPGBDeGEaYy8ms4Y8QMQ": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "c6t4HKjytPi0mYgs240wkG": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
+      ],
+      "c5KsDBWseXY6QegucYAoacS": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+        "/products/c5KsDBWseXY6QegucYAoacS/"
+      ],
+      "c5KsDBWseXY6QegucYAoacSproductNameTextNode": [
+        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
+        "/products/c5KsDBWseXY6QegucYAoacS/",
+        "/en/"
       ],
       "c5KsDBWseXY6QegucYAoacS___deproductDescriptionTextNode": [
         "/products/c5KsDBWseXY6QegucYAoacS___de/"
@@ -3552,32 +3755,31 @@
       "c5KsDBWseXY6QegucYAoacS___deproductDescriptionTextNode >>> MarkdownRemark": [
         "/products/c5KsDBWseXY6QegucYAoacS___de/"
       ],
-      "wtrHxeu3zEoEce2MokCSi___de": [
-        "/products/c5KsDBWseXY6QegucYAoacS___de/",
-        "/"
-      ],
       "JrePkDVYomE8AwcuCUyMi___de": [
         "/products/c5KsDBWseXY6QegucYAoacS___de/"
       ],
       "JrePkDVYomE8AwcuCUyMi___decompanyNameTextNode": [
         "/products/c5KsDBWseXY6QegucYAoacS___de/"
       ],
-      "c24DPGBDeGEaYy8ms4Y8QMQ___de": [
-        "/products/c5KsDBWseXY6QegucYAoacS___de/",
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/"
+      "c3DVqIYj4dOwwcKu6sgqOgg___deproductDescriptionTextNode": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
       ],
-      "c24DPGBDeGEaYy8ms4Y8QMQ___detitleTextNode": [
-        "/products/c5KsDBWseXY6QegucYAoacS___de/",
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/"
+      "c3DVqIYj4dOwwcKu6sgqOgg___deproductDescriptionTextNode >>> MarkdownRemark": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/"
       ],
-      "c4BqrajvA8E6qwgkieoqmqO___de": [
-        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
+      "c651CQ8rLoIYCeY6G0QG22q___de": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
+        "/products/c6dbjWqNd9SqccegcqYq224___de/"
       ],
-      "c4BqrajvA8E6qwgkieoqmqO___deproductNameTextNode": [
-        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/",
-        "/"
+      "c651CQ8rLoIYCeY6G0QG22q___decompanyNameTextNode": [
+        "/products/c3DVqIYj4dOwwcKu6sgqOgg___de/",
+        "/products/c6dbjWqNd9SqccegcqYq224___de/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224___deproductDescriptionTextNode": [
+        "/products/c6dbjWqNd9SqccegcqYq224___de/"
+      ],
+      "c6dbjWqNd9SqccegcqYq224___deproductDescriptionTextNode >>> MarkdownRemark": [
+        "/products/c6dbjWqNd9SqccegcqYq224___de/"
       ],
       "c4BqrajvA8E6qwgkieoqmqO___deproductDescriptionTextNode": [
         "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
@@ -3585,24 +3787,11 @@
       "c4BqrajvA8E6qwgkieoqmqO___deproductDescriptionTextNode >>> MarkdownRemark": [
         "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
       ],
-      "KTRF62Q4gg60q6WCsWKw8___de": [
-        "/products/c4BqrajvA8E6qwgkieoqmqO___de/",
-        "/"
-      ],
       "c4LgMotpNF6W20YKmuemW0a___de": [
         "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
       ],
       "c4LgMotpNF6W20YKmuemW0a___decompanyNameTextNode": [
         "/products/c4BqrajvA8E6qwgkieoqmqO___de/"
-      ],
-      "c5KsDBWseXY6QegucYAoacS": [
-        "/products/c5KsDBWseXY6QegucYAoacS/",
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
-      ],
-      "c5KsDBWseXY6QegucYAoacSproductNameTextNode": [
-        "/products/c5KsDBWseXY6QegucYAoacS/",
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/",
-        "/"
       ],
       "c5KsDBWseXY6QegucYAoacSproductDescriptionTextNode": [
         "/products/c5KsDBWseXY6QegucYAoacS/"
@@ -3612,30 +3801,13 @@
       ],
       "wtrHxeu3zEoEce2MokCSi": [
         "/products/c5KsDBWseXY6QegucYAoacS/",
-        "/"
+        "/en/"
       ],
       "JrePkDVYomE8AwcuCUyMi": [
         "/products/c5KsDBWseXY6QegucYAoacS/"
       ],
       "JrePkDVYomE8AwcuCUyMicompanyNameTextNode": [
         "/products/c5KsDBWseXY6QegucYAoacS/"
-      ],
-      "c24DPGBDeGEaYy8ms4Y8QMQ": [
-        "/products/c5KsDBWseXY6QegucYAoacS/",
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
-      ],
-      "c24DPGBDeGEaYy8ms4Y8QMQtitleTextNode": [
-        "/products/c5KsDBWseXY6QegucYAoacS/",
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
-      ],
-      "c3DVqIYj4dOwwcKu6sgqOgg": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
-      ],
-      "c3DVqIYj4dOwwcKu6sgqOggproductNameTextNode": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
-        "/"
       ],
       "c3DVqIYj4dOwwcKu6sgqOggproductDescriptionTextNode": [
         "/products/c3DVqIYj4dOwwcKu6sgqOgg/"
@@ -3645,7 +3817,7 @@
       ],
       "Xc0ny7GWsMEMCeASWO2um": [
         "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
-        "/"
+        "/en/"
       ],
       "c651CQ8rLoIYCeY6G0QG22q": [
         "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
@@ -3655,27 +3827,6 @@
         "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
         "/products/c6dbjWqNd9SqccegcqYq224/"
       ],
-      "c7LAnCobuuWYSqks6wAwY2a": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
-        "/products/c6dbjWqNd9SqccegcqYq224/",
-        "/products/c4BqrajvA8E6qwgkieoqmqO/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
-      ],
-      "c7LAnCobuuWYSqks6wAwY2atitleTextNode": [
-        "/products/c3DVqIYj4dOwwcKu6sgqOgg/",
-        "/products/c6dbjWqNd9SqccegcqYq224/",
-        "/products/c4BqrajvA8E6qwgkieoqmqO/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
-      ],
-      "c6dbjWqNd9SqccegcqYq224": [
-        "/products/c6dbjWqNd9SqccegcqYq224/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
-      ],
-      "c6dbjWqNd9SqccegcqYq224productNameTextNode": [
-        "/products/c6dbjWqNd9SqccegcqYq224/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
-        "/"
-      ],
       "c6dbjWqNd9SqccegcqYq224productDescriptionTextNode": [
         "/products/c6dbjWqNd9SqccegcqYq224/"
       ],
@@ -3684,16 +3835,7 @@
       ],
       "c10TkaLheGeQG6qQGqWYqUI": [
         "/products/c6dbjWqNd9SqccegcqYq224/",
-        "/"
-      ],
-      "c4BqrajvA8E6qwgkieoqmqO": [
-        "/products/c4BqrajvA8E6qwgkieoqmqO/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
-      ],
-      "c4BqrajvA8E6qwgkieoqmqOproductNameTextNode": [
-        "/products/c4BqrajvA8E6qwgkieoqmqO/",
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/",
-        "/"
+        "/en/"
       ],
       "c4BqrajvA8E6qwgkieoqmqOproductDescriptionTextNode": [
         "/products/c4BqrajvA8E6qwgkieoqmqO/"
@@ -3703,25 +3845,13 @@
       ],
       "KTRF62Q4gg60q6WCsWKw8": [
         "/products/c4BqrajvA8E6qwgkieoqmqO/",
-        "/"
+        "/en/"
       ],
       "c4LgMotpNF6W20YKmuemW0a": [
         "/products/c4BqrajvA8E6qwgkieoqmqO/"
       ],
       "c4LgMotpNF6W20YKmuemW0acompanyNameTextNode": [
         "/products/c4BqrajvA8E6qwgkieoqmqO/"
-      ],
-      "c6m5AJ9vMPKc8OUoQeoCS4o___de": [
-        "/categories/c7LAnCobuuWYSqks6wAwY2a___de/"
-      ],
-      "c6t4HKjytPi0mYgs240wkG___de": [
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ___de/"
-      ],
-      "c6m5AJ9vMPKc8OUoQeoCS4o": [
-        "/categories/c7LAnCobuuWYSqks6wAwY2a/"
-      ],
-      "c6t4HKjytPi0mYgs240wkG": [
-        "/categories/c24DPGBDeGEaYy8ms4Y8QMQ/"
       ]
     },
     "connections": {
@@ -3729,7 +3859,8 @@
         "/image-api/"
       ],
       "ContentfulProduct": [
-        "/"
+        "/en/",
+        "/de/"
       ],
       "SitePage": [
         "/dev-404-page/"

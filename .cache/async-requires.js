@@ -6,6 +6,8 @@ exports.components = {
   "component---src-templates-product-js": require("gatsby-module-loader?name=component---src-templates-product-js!/home/ubuntu/workspace/using-contentful/src/templates/product.js"),
   "component---src-templates-category-js": require("gatsby-module-loader?name=component---src-templates-category-js!/home/ubuntu/workspace/using-contentful/src/templates/category.js"),
   "component---src-pages-image-api-js": require("gatsby-module-loader?name=component---src-pages-image-api-js!/home/ubuntu/workspace/using-contentful/src/pages/image-api.js"),
+  "component---src-pages-de-index-js": require("gatsby-module-loader?name=component---src-pages-de-index-js!/home/ubuntu/workspace/using-contentful/src/pages/de/index.js"),
+  "component---src-pages-en-index-js": require("gatsby-module-loader?name=component---src-pages-en-index-js!/home/ubuntu/workspace/using-contentful/src/pages/en/index.js"),
   "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/home/ubuntu/workspace/using-contentful/src/pages/index.js")
 }
 
@@ -38,6 +40,10 @@ exports.json = {
   "categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json": require("gatsby-module-loader?name=path---categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq!/home/ubuntu/workspace/using-contentful/.cache/json/categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
   "image-api.json": require("gatsby-module-loader?name=path---image-api!/home/ubuntu/workspace/using-contentful/.cache/json/image-api.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
+  "de.json": require("gatsby-module-loader?name=path---de!/home/ubuntu/workspace/using-contentful/.cache/json/de.json"),
+  "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
+  "en.json": require("gatsby-module-loader?name=path---en!/home/ubuntu/workspace/using-contentful/.cache/json/en.json"),
   "layout-index.json": require("gatsby-module-loader?name=path---!/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/home/ubuntu/workspace/using-contentful/.cache/json/index.json")
 }

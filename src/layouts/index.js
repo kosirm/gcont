@@ -23,9 +23,10 @@ class DefaultLayout extends React.Component {
       >
         <Link style={{ textDecoration: `none` }} to="/">
           <h3 style={{ color: `green`, marginBottom: rhythm(1.5) }}>
-            Contentful as a data source for a Gatsby site
+            Contentful as a data source for a Gatsby site (ovje dođe menu...)
           </h3>
         </Link>
+        <div><Link to="/en/">English</Link><Link to="/de/">German</Link></div>
         {this.props.children()}
         <hr style={{ marginTop: rhythm(3) }} />
         <p>bye</p>

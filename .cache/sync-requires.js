@@ -11,6 +11,8 @@ exports.components = {
   "component---src-templates-product-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/templates/product.js")),
   "component---src-templates-category-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/templates/category.js")),
   "component---src-pages-image-api-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/pages/image-api.js")),
+  "component---src-pages-de-index-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/pages/de/index.js")),
+  "component---src-pages-en-index-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/pages/en/index.js")),
   "component---src-pages-index-js": preferDefault(require("/home/ubuntu/workspace/using-contentful/src/pages/index.js"))
 }
 
@@ -43,6 +45,10 @@ exports.json = {
   "categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/categories-c-24-dpgb-de-g-ea-yy-8-ms-4-y-8-qmq.json"),
   "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
   "image-api.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/image-api.json"),
+  "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
+  "de.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/de.json"),
+  "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
+  "en.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/en.json"),
   "layout-index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/layout-index.json"),
   "index.json": require("/home/ubuntu/workspace/using-contentful/.cache/json/index.json")
 }

@@ -98,6 +98,20 @@
         "path": "/image-api/"
     },
     {
+        "componentChunkName": "component---src-pages-de-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "de.json",
+        "path": "/de/"
+    },
+    {
+        "componentChunkName": "component---src-pages-en-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "en.json",
+        "path": "/en/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
